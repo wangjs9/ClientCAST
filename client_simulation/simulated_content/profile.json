@@ -1,0 +1,18 @@
+{
+  "system_prompt": "Attached is a conversation between a client and a therapist. Extract basic information about the client from the transcript prior to the conversation. This information will be utilized for client simulation. Avoid referencing the therapist, the session, or the conversation itself. Now, answer the below question, and the answer should be short.\n\nConversation:\n{conversation}\n\nQuestion: {query}",
+  "queries": {
+    "name": "What is the name is this client? Answer with only the name or 'Not Specified'.",
+    "gender": "What is the most probable gender of this client based on information, such as the client's name and the pronoun used in the conversation? Answer with only 'Male', 'Female', or 'Cannot be identified'.",
+    "age": "Estimate the client's age from the conversation? If unsure, please provide a brief estimate or respond with 'unclear'. Begin your answer with an estimated age, followed by one sentence explanation.",
+    "occupation": "What is the client's occupation? If unsure, please provide a brief estimate or respond with 'unclear'. Answer with only the occupation or 'Not Specified'.",
+    "topic": "What is the main topic of the conversation? Select the most appropriate one from the following: \"smoking cessation\", \"alcohol consumption\", \"substance abuse\", \"weight management\", \"medication adherence\", \"recidivism\", \"others\". Begin your answer with the topic, followed by a short and straightforward explanation.",
+    "situation": "Use one sentence to summarize the client's current situation and mental health.",
+    "emotion": "Use one sentence to summarize the client's feelings and emotions.",
+    "reasons": "What are the reasons for the client's visit to the therapist? Provide a brief and clear explanation, starting with 'The client is visiting the therapist because.'",
+    "problem": "What is the main problem the client is currently facing? Begin your answer with the problem type, followed by a short and straightforward explanation. Example problem types: 'relationship', 'weight control', 'school-related issues', etc.",
+    "emotion trigger": "Please identify which behaviors or statements by the therapist elicited an emotional reaction from the client during the conversation. Provide direct quotations of the therapist's words that triggered the client's emotions. If no emotional trigger is present, respond with 'No emotional trigger'.",
+    "feeling expression": "Identify the level of the client's unwillingness to express feelings. Choose one of the following options: 'Low', 'Medium', 'High', or 'Cannot be identified'. Begin your answer with the level, followed by a concise and straightforward one-sentence explanation.",
+    "emotional fluctuation": "Identify how frequently does the client's emotion fluctuate? Choose one of the following options: 'Low', 'Medium', 'High', or 'Cannot be identified'. Begin your answer with the level, followed by a concise and straightforward one-sentence explanation.",
+    "resistance": "Identify the level of resistance of the client towards the therapist. Choose one of the following options: 'Low', 'Medium', 'High', or 'Cannot be identified'. Begin your answer with the level, followed by a concise and straightforward one-sentence explanation."
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "system_prompt": {
+    "content": "TASK: Act like a specific patient, and fill a questionnaire after a counseling session.\n\nThe specific patient has the following characters:\n{character}.\n\nThe session conversation is as follows:\n{conversation}\n\nBased on the above information, finish the following questionnaire from the perspective of the patient ([Client]). For each query, provide a concise response that begins with 'I would rate a ' followed by a numerical rating and a clear, single-sentence explanation.",
+    "questionnaire description": "Completion of this form is voluntary, and responses are anonymous. This evaluation form is intended for the counselor to receive input from you regarding your experience in counseling. The answers you provide will be used by the counselor to consider his or her work as a counseling professional, and where appropriate, to make modifications in her/his work to benefit future clients. In some instances forms may be included by the counselor in evaluation materials. Your answers may also be used for the purposes of research on counseling process and effectiveness. Please take the time to respond to the questions below as honestly as you can. Read questions carefully because they are not all worded in the same direction (e.g., some refer to desirable behaviors, and some to undesirable ones). If an item seems to not be applicable to you, or you don't know the answer, mark it \"N/A.\"",
+    "source": "Client Evaluation of Counselor Scale - ADPCA"
+  },
+  "scale": {
+    "1": "Strongly Disagree",
+    "2": "Disagree",
+    "3": "Slightly Disagree",
+    "4": "Neutral",
+    "5": "Slightly Agree",
+    "6": "Agree",
+    "7": "Strongly Agree"
+  },
+  "queries": {
+    "Evaluating Your Counsellor": [
+      {
+        "index": 1,
+        "content": "Uncomfortable to be with",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 2,
+        "content": "Trusted to keep my confidentiality",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 3,
+        "content": "Not trusted enough to share very personal aspects of myself",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 4,
+        "content": "Disrespectful of me",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 5,
+        "content": "Accepting of me as a person",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 6,
+        "content": "Knowledgeable",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 7,
+        "content": "Incompetent",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 8,
+        "content": "Uncaring",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 9,
+        "content": "Interested in what I had to say",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 10,
+        "content": "Understanding of me",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 11,
+        "content": "Impatient with me",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 12,
+        "content": "Enjoyed being with me",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 13,
+        "content": "Assisted my progress toward achieving goals",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 14,
+        "content": "Pushed me to discover solutions",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 15,
+        "content": "Encouraged me to set goals",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 16,
+        "content": "Challenged my self contradictions",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 17,
+        "content": "Looked for underlying reasons to explain my behavior",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 18,
+        "content": "Provided direction for our sessions",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 19,
+        "content": "Appeared to be genuine",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 20,
+        "content": "Encouraged me to do most of the talking",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 21,
+        "content": "Suggested new/different ways to view my problem/situation(s)",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 22,
+        "content": "Listened to me intently",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 23,
+        "content": "Was inflexible",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 24,
+        "content": "Helped me to achieve my goals in counseling",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 25,
+        "content": "Gave me advise about what to do",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 26,
+        "content": "Shared a lot about their own life",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 27,
+        "content": "Spoke in an understandable way",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 28,
+        "content": "Kept a professional demeanor",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 29,
+        "content": "Was open and honest with me",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 30,
+        "content": "Directed me to useful resources outside of the counseling",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 31,
+        "content": "Seemed knowledgeable about the operations of the larger institution I'm involved in",
+        "expectation": "larger",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 32,
+        "content": "Placed most of the responsibility for making changes up to me",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 33,
+        "content": "Initiated a discussion of what my goals were for counseling",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 34,
+        "content": "Praised me for accomplishing desired changes",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 35,
+        "content": "Appeared to be a well-adjusted person",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 36,
+        "content": "Supported my attempts to change",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 37,
+        "content": "Seemed highly educated/trained",
+        "expectation": "larger",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 38,
+        "content": "Made jokes and/or laughed with me",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 39,
+        "content": "Suggested different ways that I could think, feel, or behave",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 40,
+        "content": "Summarized what occurred during sessions",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 41,
+        "content": "Assigned tasks for me to complete",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 42,
+        "content": "Confronted my inconsistencies",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 43,
+        "content": "Was disapproving of me",
+        "expectation": "smaller",
+        "subtype": "therapeutic alliance"
+      },
+      {
+        "index": 44,
+        "content": "Used \"techniques\" to help me resolve problems",
+        "expectation": "larger",
+        "subtype": "therapeutic alliance"
+      }
+    ],
+    "Evaluating Your Experience as a Client": [
+      {
+        "index": 1,
+        "content": "I considered counseling to be helpful to me",
+        "expectation": "larger",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 2,
+        "content": "In some ways I think counseling hurt me",
+        "expectation": "smaller",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 3,
+        "content": "I would recommend my counselor to others",
+        "expectation": "larger",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 4,
+        "content": "Counseling had a negative impact on my life",
+        "expectation": "smaller",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 5,
+        "content": "I would enter counseling again",
+        "expectation": "larger",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 6,
+        "content": "I felt comfortable going to see my counselor",
+        "expectation": "larger",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 7,
+        "content": "After sessions I tended to feel miserable",
+        "expectation": "smaller",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 8,
+        "content": "I felt satisfied with how the counseling relationship ended",
+        "expectation": "larger",
+        "subtype": "session outcome"
+      }
+    ]
+  }
+}

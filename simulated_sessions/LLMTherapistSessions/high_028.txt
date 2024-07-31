@@ -1,0 +1,37 @@
+T: Would you like to answer some questions and kind of do a self evaluation about how you're feeling around alcohol on the contraception
+C: sure
+T: We'll be using a 10-point scale, with 1 indicating low importance or confidence and 10 signifying high importance or confidence. On this scale, how important is it for you to maintain low-risk drinking habits?
+C: I'd say an 8.
+T: And how confident are you currently in your ability to adhere to low-risk drinking levels?
+C: I'd say a 4.
+T: I see. Despite the importance being high, your confidence is relatively low at a 4. What factors contribute to your confidence in being able to maintain low-risk drinking?
+C: Well, I have a family history of alcoholism, so I don't want to go down that path.
+T: That's a very compelling reason to make changes. It sounds like you're motivated to take control of your drinking habits to protect your own well-being.
+C: Yeah, and I also have friends who don't drink, so when I'm with them, it's easier to stay in control.
+T: Having a support system that allows you to socialize without pressure to drink excessively can be really helpful.
+C: Yeah, it makes a big difference.
+T: It's great that you've identified some strengths that can help you stay on track. Are there any other factors that contribute to your confidence in maintaining low-risk drinking habits?
+C: Nope.
+T: Let's shift our focus to your self-evaluation regarding birth control. Using the same scale, how important is it to you to consistently use effective contraception to prevent pregnancy?
+C: I'd say an 8.
+T: And how confident are you in your ability to use effective birth control correctly and consistently?
+C: Probably a 6.
+T: A 6 indicates a fair level of confidence. What makes you a 6 rather than a lower number?
+C: I think if I drink less, I'll be more reliable with using birth control.
+T: So, you've identified a link between your drinking habits and birth control use. If you can manage your alcohol consumption, it will positively impact your contraception practices.
+C: Yeah, that's true.
+T: It seems you're using an appropriate birth control method but struggling with consistent use due to drinking. Would you like to create a plan today to address your alcohol consumption?
+C: Yeah, before I leave.
+T: Very well. If you require additional information, we can provide that for you. Let's proceed with developing that plan.
+C: Okay.
+T: To start, what specific changes do you feel you can make to your drinking habits?
+C: Maybe I can try to limit myself to only drinking on weekends.
+T: Limiting drinking to weekends is a good starting point. How do you think that will help you stay in control, especially in social situations?
+C: I think it'll help me not get too drunk and forget about birth control.
+T: That's a great connection to make. Being more mindful of your drinking can have a positive impact on your birth control use.
+C: And maybe I can also try to hang out with my non-drinking friends more often.
+T: Enlisting the support of friends who don't drink can be a wonderful way to reinforce your commitment to moderation.
+C: Yeah, they're a good influence on me.
+T: It sounds like you're identifying some great strategies to help you stay on track. How do you think you'll handle situations where you might feel pressured to drink more than you want to?
+C: I'm not really sure, that's usually when I end up drinking too much.
+T: It can be tough to navigate those situations. Let's explore that a bit more. What do you think would happen if you told your friends that you're trying to cut back on drinking?

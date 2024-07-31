@@ -1,0 +1,33 @@
+{
+  "system_prompt": {
+    "content": "TASK: Act like a specific patient, and fill a questionnaire after a counseling session.\n\nThe specific patient has the following characters:\n{character}.\n\nThe session conversation is as follows:\n{conversation}\n\nBased on the above information, finish the following questionnaire from the perspective of the patient ([Client]). For each query, provide a concise response that begins with 'I would rate a ' followed by a numerical rating and a clear, single-sentence explanation.",
+    "questionnaire description": "Please rate today's session by choosing a number (can be a float number) from 0 to 10 for each of the following questions.",
+    "source": "Session Rating Scale"
+  },
+  "queries": [
+    {
+      "index": 1,
+      "content": "How would you evaluate the relationship between you and the therapist?",
+      "scale": "Ratings closer to 0 indicate 'I did not feel heard, understood, or respected,' while ratings closer to 10 signify 'I felt heard, understood, and respected.'",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 2,
+      "content": "Was the session focused on the goals and topics you expected?",
+      "scale": "Ratings closer to 0 indicate 'We did not work on or talk about what I wanted to work on and talk about,' while ratings closer to 10 signify 'We worked on and talked about what I wanted to work on and talked about.'",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 3,
+      "content": "How would you evaluate the approach or method used by the therapist?",
+      "scale": "Ratings closer to 0 indicate 'The therapist's approach is not a good fit for me,' while ratings closer to 10 signify 'The therapist;s approach is a good fit for me.'",
+      "subtype": "session outcome"
+    },
+    {
+      "index": 4,
+      "content": "How would you evaluate the session generally?",
+      "scale": "Ratings closer to 0 indicate 'There was something missing in the session today,' while ratings closer to 10 signify 'Overall, today's session was right for me.'",
+      "subtype": "session outcome"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+T: hi Tom how are you today
+C: yeah going well thanks
+T: Before we begin, let's review your medical history. It's crucial that we do this at each visit, as your overall well-being can impact your oral health, and vice versa. Have you started any new medications recently?
+C: No, no changes.
+T: Have you undergone any major surgeries or experienced any serious illnesses in the past six months?
+C: No, none.
+T: Excellent. Were there any specific concerns you wanted to address today?
+C: Yeah, I've been noticing these white spots on my teeth lately, and I want to figure out what's going on.
+T: Let's take a closer look at those white spots. Can you tell me more about when you first noticed them and if you've made any changes to your daily routine recently?
+C: I'm not really sure when I first noticed them, but I've been trying to cut down on sugary snacks and drinks, 'cause I've heard they're bad for your teeth.
+T: That's a great effort, Tom! Cutting down on sugary snacks and drinks is a step in the right direction. Can you tell me a bit more about your typical daily drink habits? What do you usually drink, and how often?
+C: I usually have a can of soft drink around lunchtime, and then I just sip it slowly throughout the afternoon.
+T: It's good that you're limiting yourself to one can. However, how you drink it also matters. Would you be open to exploring how your drink habit might be contributing to those white spots?
+C: Yeah, sure. I guess it makes sense that how I drink it could be a problem.
+T: I see. So, you're aware that sugar is bad for your teeth, and you're trying to limit your intake. That's a great starting point. Can I ask, do you know why sugar is particularly harmful to your teeth?
+C: Yeah, I've seen online that sugar's really bad for your teeth, so I try not to eat too many lollies and stuff like that.
+T: It's great that you're making an effort to limit your sugar intake. The problem with sugar is that it feeds the bacteria in your mouth, which produce acid. This acid bathes the tooth surface and eventually leads to cavities.
+C: Okay, that makes sense.
+T: Did you know that there are approximately 10 teaspoons of sugar in a single can of soft drink?
+C: No, I didn't know that.
+T: That's a lot of sugar, isn't it? What are your thoughts on trying to reduce that sugar intake, perhaps by changing your drink habit?
+C: Yeah, I was thinking maybe I could switch to diet soft drink instead?
+T: It's great that you're thinking proactively about improving your health. However, studies show that diet soft drinks still have a high acid content that can dissolve your teeth with each sip.
+C: Okay, well, I read online about people swishing coconut oil in their mouth to stop holes from forming... should I try that?
+T: It's wonderful that you're doing your own research about oral health online. Oil pulling, however, lacks strong scientific evidence to support its effectiveness in preventing cavities.
+C: Okay, so what else can I do to simplify my oral health routine?
+T: Going back to your soft drink habit, may I suggest that you try to drink your one can all in one go, perhaps limiting it to about 10 minutes? You could even consider using a straw when you drink it.
+C: Yeah, I usually have it around lunchtime, so I could just have it all in one shot then.
+T: That's great, Tom. It will give your teeth a break from the sugar and acid in the afternoon. Perhaps you could keep a glass of water handy instead.
+C: Yeah, that sounds good.
+T: On a scale of one to ten, with ten being the most and one being the least, how motivated are you to make these changes?
+C: Well, I really don't want these spots turning into holes, so I'd say about eight or nine.

@@ -1,0 +1,131 @@
+{
+  "system_prompt": {
+    "content": "TASK: Act like a specific patient, and fill a questionnaire after a counseling session.\n\nThe specific patient has the following characters:\n{character}.\n\nThe session conversation is as follows:\n{conversation}\n\nBased on the above information, finish the following questionnaire from the perspective of the patient ([Client]). For each query, provide a concise response that begins with 'I would rate a ' followed by a numerical rating and a clear, single-sentence explanation.",
+    "questionnaire description": "Consider carefully your relationship with your therapist,\nand then mark each statement according to how strongly you agree or disagree.",
+    "source": "Helping Alliance Questionnaire II (HAQ-II)"
+  },
+  "scale": {
+    "1": "Strongly Disagree",
+    "2": "Disagree",
+    "3": "Slightly Disagree",
+    "4": "Slightly Agree",
+    "5": "Agree",
+    "6": "Strongly Agree"
+  },
+  "queries": [
+    {
+      "index": 1,
+      "content": "I feel I can depend upon the therapist.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 2,
+      "content": "I feel the therapist understands me.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 3,
+      "content": "I feel the therapist wants me to achieve my goals.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 4,
+      "content": "At times I distrust the therapist's judgment.",
+      "expectation": "smaller",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 5,
+      "content": "I feel I am working together with the therapist in a joint effort.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 6,
+      "content": "I believe we have similar ideas about the nature of my problems.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 7,
+      "content": "I generally respect the therapist's views about me.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 8,
+      "content": "The procedures used in my therapy are not well suited to my needs.",
+      "expectation": "smaller",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 9,
+      "content": "I like the therapist as a person.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 10,
+      "content": "In the session, the therapist and I find a way to work on my problems together.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 11,
+      "content": "The therapist relates to me in ways that slow up the progress of the therapy.",
+      "expectation": "smaller",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 12,
+      "content": "A good relationship has formed with my therapist.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 13,
+      "content": "The therapist appears to be experienced in helping people. ",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 14,
+      "content": "I want very much to work out my problems.",
+      "expectation": "larger",
+      "subtype": "session outcome"
+    },
+    {
+      "index": 15,
+      "content": "The therapist and I have meaningful exchanges.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 16,
+      "content": "The therapist and I sometimes have unprofitable exchanges.",
+      "expectation": "smaller",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 17,
+      "content": "From time to time, we both talk about the same important events in my past.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 18,
+      "content": "I believe the therapist likes me as a person.",
+      "expectation": "larger",
+      "subtype": "therapeutic alliance"
+    },
+    {
+      "index": 19,
+      "content": "At times the therapist seems distant.",
+      "expectation": "smaller",
+      "subtype": "therapeutic alliance"
+    }
+  ]
+}

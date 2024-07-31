@@ -1,0 +1,26 @@
+T: hi mr. snow
+C: hey
+T: It's nice to meet you, Mr. Snow. I'm glad you're here to discuss your diabetes management. Can you tell me a little bit about what's been going on and how you've been feeling about your diagnosis?
+C: Yeah, I'm still trying to wrap my head around it, to be honest. The doctor told me my blood sugar was sky-high and all these horrible things could happen if I don't get it under control. It sounds so disastrous. I'm just feeling really overwhelmed and scared, you know?
+T: I can sense the fear and overwhelm in your voice, Mr. Snow. It's understandable to feel that way, given the severity of your diagnosis and the potential complications that come with unmanaged diabetes. Can you tell me more about what's specifically scaring you or feeling overwhelming to you right now?
+C: It's just all the stuff I have to do now, you know? Take medicine, change my eating habits, exercise more... it's like, I don't know if I can do all that. And the doctor said if I don't, I could go blind or have circulation problems... it's just a lot to take in.
+T: I hear you, Mr. Snow. It sounds like you're feeling a bit suffocated by the sheer amount of changes you're being asked to make, and the fear of those potential complications is weighing heavily on you. That's a lot to process, and it's normal to feel uncertain about your ability to make all these changes.
+C: Yeah, it's like, I don't want all that bad stuff to happen to me, but I'm not sure I can handle all this.
+T: It's understandable that you're feeling torn, Mr. Snow. On one hand, you want to avoid those serious complications, but on the other hand, you're unsure about your ability to make these significant lifestyle changes. Let's take a step back and break it down into smaller, more manageable pieces. What do you think would be the most challenging part of making these changes for you?
+C: I think it's just doing all this stuff every day, you know? It sounds like a massive task.
+T: I see. It's the daily commitment that's feeling daunting to you. That makes sense. Let's focus on one aspect at a time. What if we started with just taking your medication as prescribed? Would that feel like a more achievable goal to you?
+C: Yeah, I don't think that's too much trouble, especially since I understand how high my blood sugar is.
+T: That's great to hear, Mr. Snow. It sounds like you're committed to taking this first step, which is crucial.
+C: I'm pretty good about taking medicine, so that part shouldn't be a problem.
+T: Excellent, it sounds like you're feeling more confident about taking your medication. Now, let's talk about how you can remind yourself to take it every day. Do you have a daily routine or a specific time of day that you think would work best for taking your medication?
+C: Hmm, I'm not sure... maybe in the morning when I eat breakfast?
+T: That's a great idea, Mr. Snow. Tying it to your breakfast routine can make it a habit. How does it sound if we make a plan to start with that, and then we can revisit and adjust as needed during our next meeting?
+C: Okay, that sounds like a plan.
+T: I'm glad we could break it down into a more manageable step, Mr. Snow. It's great that you're willing to start with taking your medication, and I'm confident that we can build on this momentum.
+C: Yeah, it's a relief to have a plan, I guess. Still feeling a bit overwhelmed, but maybe it's not so bad if I take it one step at a time.
+T: That's a wonderful attitude to have, Mr. Snow. Taking it one step at a time can make all the difference. I'm proud of you for being willing to take that first step, and I'm here to support you every step of the way.
+C: Thanks, I appreciate that. It means a lot to have someone to talk to about all this.
+T: You're welcome, Mr. Snow. I'm glad I can be here to support you. It's a big deal to acknowledge that you need help, and it takes a lot of courage to ask for it.
+C: Yeah, I just don't want all this bad stuff to happen to me.
+T: I completely understand, Mr. Snow. You're motivated to make changes because you want to avoid those potential complications, and that's a great starting point.
+C: I just wish I could turn back time and not have gotten diabetes in the first place.

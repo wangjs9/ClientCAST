@@ -1,0 +1,106 @@
+{
+  "system_prompt": "Attached below is a conversation. Based on the content prior to this conversation, determine whether the client exhibits the listed symptoms. If yes, estimate the symptom's severity. If no, respond with 'Cannot be identified.' Begin your response with 'The severity is approximately [severity level].' or 'Cannot be identified.', followed by a brief and clear explanation. This assessment will be used for client simulation. Avoid referencing the therapist, the session, or the conversation itself.\n\nConversation:\n{conversation}\n\nSymptoms: {query}\n\nSeverity: {severity}",
+  "PHQ-9": {
+    "queries": {
+      "1": "little interest or pleasure in doing things",
+      "2": "feeling down, depressed, or hopeless",
+      "3": "trouble falling or staying asleep, or sleeping too much",
+      "4": "feeling tired or having little energy",
+      "5": "poor appetite or overeating",
+      "6": "feeling bad about myself or that I am a failure or have let myself or my family down",
+      "7": "trouble concentrating on things, such as reading the newspaper or watching television",
+      "8": "moving or speaking so slowly that other people could have noticed. Or the opposite, being so fidgety or restless that I have been moving around a lot more than usual",
+      "9": "thoughts that I would be better off dead or of hurting myself in some way"
+    },
+    "severity": {
+      "0": "Not at all",
+      "1": "Several days",
+      "2": "More than half the days",
+      "3": "Nearly every day"
+    }
+  },
+  "GAD-7": {
+    "queries": {
+      "1": "feeling nervous, anxious, or on edge",
+      "2": "not being able to stop or control worrying",
+      "3": "worrying too much about different things",
+      "4": "trouble relaxing",
+      "5": "being so restless that it is hard to sit still",
+      "6": "becoming easily annoyed or irritable",
+      "7": "feeling afraid as if something awful might happen"
+    },
+    "severity": {
+      "0": "Not at all",
+      "1": "Several days",
+      "2": "More than half the days",
+      "3": "Nearly every day"
+    }
+  },
+  "OQ-45": {
+    "queries": {
+      "1": "getting along well with others",
+      "4": "feeling stressed at work/school",
+      "5": "blaming myself for things",
+      "7": "feeling unhappy in my marriage/significant relationship",
+      "9": "feeling weak",
+      "10": "feeling fearful",
+      "11": "after heavy drinking, I need a drink the next morning to get going.",
+      "12": "finding my work/school satisfying",
+      "13": "I am a happy person",
+      "14": "working/studying too much",
+      "15": "feeling worthless",
+      "16": "concerned about family troubles",
+      "17": "having an unfulfilling sex life",
+      "18": "feeling lonely",
+      "19": "having frequent arguments",
+      "20": "feeling loved and wanted",
+      "21": "enjoying my spare time",
+      "23": "feeling hopeless about the future",
+      "24": "I like myself",
+      "25": "disturbing thoughts come to my mind that I cannot get rid of",
+      "26": "feeling annoyed by people who criticize my drinking or drug use",
+      "27": "having a upset stomach",
+      "28": "not working/studying as well as I used to",
+      "29": "my heart pounds too much",
+      "30": "having trouble getting along with friends and close acquaintances",
+      "31": "satisfied with my life",
+      "32": "having trouble at work/school because of drinking or drug use",
+      "33": "feeling that something bad is going to happen",
+      "34": "having sore muscles",
+      "35": "feeling afraid of open spaces, of driving, or being on buses, subways, and so forth",
+      "37": "feeling my love relationships are full and complete",
+      "38": "feeling that I am not doing well at work/school",
+      "39": "having too many disagreements at work/school",
+      "40": "feeling something is wrong with my mind",
+      "42": "feeling blue",
+      "43": "satisfied with my relationships with others",
+      "44": "feeling angry enough at work/school to do something I might regret",
+      "45": "having headaches"
+    },
+    "positive severity": {
+      "0": "Always",
+      "1": "Frequently",
+      "2": "Sometimes",
+      "3": "Rarely",
+      "4": "Never"
+    },
+    "negative severity": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Frequently",
+      "4": "Always"
+    },
+    "positive queries": [
+      "1",
+      "12",
+      "13",
+      "20",
+      "21",
+      "24",
+      "31",
+      "37",
+      "43"
+    ]
+  }
+}

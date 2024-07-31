@@ -1,0 +1,27 @@
+T: hi mr. snow
+C: hey
+T: Nice to meet you, Mr. Snow. I'm glad you decided to take this step towards seeking help. What brings you here today?
+C: I just got diagnosed with diabetes and it's all really overwhelming. The doctor told me I gotta do all this stuff to manage it, and it sounds like a massive task. I'm just not sure I can handle it.
+T: I can sense the overwhelm, Mr. Snow. It's a lot to take in. What's the hardest part for you about managing your diabetes - is it the lifestyle changes, the medication, or something else entirely?
+C: It's all of it, to be honest. The doctor laid out all these huge consequences if I don't get it under control, and it sounds so disastrous. I just don't want all that bad stuff to happen to me.
+T: I can imagine those consequences are weighing heavily on your mind. It sounds like you're motivated to avoid those negative outcomes. Can you tell me, what's the most important thing to you about staying healthy and avoiding those consequences?
+C: I just don't want to lose my eyesight or have problems with my legs. That's what the doctor said could happen if I don't get my blood sugar under control.
+T: Those are very specific and scary possibilities. It sounds like you value your independence and quality of life. What does maintaining your eyesight and avoiding leg problems mean to you, on a personal level?
+C: It means I can still do things for myself, you know? I don't want to be a burden on my family. I want to be able to take care of myself.
+T: I sense a strong sense of self-reliance and responsibility in you, Mr. Snow. It's admirable that you want to maintain your independence and not burden your family. How important is it for you to be able to take care of yourself, on a scale of 1 to 10?
+C: Oh, it's a 10. I gotta be able to take care of myself. I don't want to be a burden.
+T: So, taking care of yourself is non-negotiable for you. That's a powerful motivator. What's one small step you could take today, or this week, to start moving towards taking care of your diabetes and maintaining that independence?
+C: I guess... I could start by taking my medicine like the doctor said. That's a start, right?
+T: That's a great start, Mr. Snow! Taking your medicine as prescribed is a crucial step. What's one thing that might get in the way of you remembering to take your medicine consistently, and how could you overcome that obstacle?
+C: Hmm... I don't know... I'm just afraid I'll forget, I guess. Maybe I could put a reminder on my phone or something?
+T: That's a great idea, Mr. Snow! A reminder on your phone can be a really helpful tool. What would need to happen for you to feel confident that you'll actually check that reminder and take your medicine every day?
+C: I don't know... I guess if I just make it a habit, like brushing my teeth or something. If I just do it every day, it'll become second nature, I hope.
+T: I like that approach, Mr. Snow. Creating habits can be a powerful way to make changes stick. It sounds like you're thinking about how to make taking your medicine a part of your daily routine. What would be the first thing you'd need to do to make that habit a reality, like, tomorrow morning?
+C: I'd need to actually fill the prescription, I guess. I haven't even done that yet.
+T: Ah-ha! Filling the prescription is a great first step. That's a tangible task you can accomplish. What's one thing you could do right now, or as soon as we're done here, to ensure you fill that prescription today?
+C: I could write it down on my to-do list, so I don't forget.
+T: Excellent idea, Mr. Snow! Writing it down can help make it more concrete. How would you feel about calling the pharmacy or making a plan to pick up the prescription as soon as possible, so it's one less thing to worry about?
+C: Yeah, that sounds like a good idea. I don't want to put it off.
+T: I can sense a sense of determination in you, Mr. Snow. It sounds like you're committed to taking this first step. What would you say to yourself to remind yourself why this is important, as you're picking up that prescription or taking your medicine for the first time?
+C: I'd tell myself, "I don't want to lose my eyesight. I gotta do this."
+T: That's a powerful reminder, Mr. Snow. It's like you're connecting with your "why" - the reason behind making these changes. What do you think would happen if you were to repeat that phrase to yourself regularly, especially when you're feeling overwhelmed or uncertain about managing your diabetes?

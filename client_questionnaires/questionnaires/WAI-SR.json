@@ -1,0 +1,153 @@
+{
+  "system_prompt": {
+    "content": "TASK: Act like a specific patient, and fill a questionnaire after a counseling session.\n\nThe specific patient has the following characters:\n{character}.\n\nThe session conversation is as follows:\n{conversation}\n\nBased on the above information, finish the following questionnaire from the perspective of the patient ([Client]). For each query, provide a concise response that begins with 'I would rate a ' followed by a numerical rating and a clear, single-sentence explanation.",
+    "questionnaire description": "Below is a list of statements and questions about experiences people might have with their therapy or therapist. Think about your experience in therapy, and decide which category best describes your own experience.",
+    "source": "Working Alliance Inventory – Short Revised (WAI-SR)"
+  },
+  "queries": [
+    {
+      "index": 1,
+      "content": "As a result of these sessions I am clearer as to how I might be able to change.",
+      "subtype": "session outcome",
+      "scale": {
+        "1": "Seldom",
+        "2": "Sometimes",
+        "3": "Fairly Often",
+        "4": "Very Often",
+        "5": "Always"
+      }
+    },
+    {
+      "index": 2,
+      "content": "What I am doing in therapy gives me new ways of looking at my problem.",
+      "subtype": "session outcome",
+      "scale": {
+        "1": "Always",
+        "2": "Very Often",
+        "3": "Fairly Often",
+        "4": "Sometimes",
+        "5": "Seldom"
+      }
+    },
+    {
+      "index": 3,
+      "content": "I believe the therapist likes me.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Seldom",
+        "2": "Sometimes",
+        "3": "Fairly Often",
+        "4": "Very Often",
+        "5": "Always"
+      }
+    },
+    {
+      "index": 4,
+      "content": "The therapist and I collaborate on setting goals for my therapy.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Seldom",
+        "2": "Sometimes",
+        "3": "Fairly Often",
+        "4": "Very Often",
+        "5": "Always"
+      }
+    },
+    {
+      "index": 5,
+      "content": "The therapist and I respect each other.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Always",
+        "2": "Very Often",
+        "3": "Fairly Often",
+        "4": "Sometimes",
+        "5": "Seldom"
+      }
+    },
+    {
+      "index": 6,
+      "content": "The therapist and I are working towards mutually agreed upon goals.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Always",
+        "2": "Very Often",
+        "3": "Fairly Often",
+        "4": "Sometimes",
+        "5": "Seldom"
+      }
+    },
+    {
+      "index": 7,
+      "content": "I feel that the therapist appreciates me.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Seldom",
+        "2": "Sometimes",
+        "3": "Fairly Often",
+        "4": "Very Often",
+        "5": "Always"
+      }
+    },
+    {
+      "index": 8,
+      "content": "The therapist and I agree on what is important for me to work on.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Always",
+        "2": "Very Often",
+        "3": "Fairly Often",
+        "4": "Sometimes",
+        "5": "Seldom"
+      }
+    },
+    {
+      "index": 9,
+      "content": "I feel the therapist cares about me even when I do things that he/she does not approve of.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Seldom",
+        "2": "Sometimes",
+        "3": "Fairly Often",
+        "4": "Very Often",
+        "5": "Always"
+      }
+    },
+    {
+      "index": 10,
+      "content": "I feel that the things I do in therapy will help me to accomplish the changes that I want.",
+      "subtype": "session outcome",
+      "scale": {
+        "1": "Always",
+        "2": "Very Often",
+        "3": "Fairly Often",
+        "4": "Sometimes",
+        "5": "Seldom"
+      }
+    },
+    {
+      "index": 11,
+      "content": "The therapist and I have established a good understanding of the kind of changes that would be good for me.",
+      "subtype": "therapeutic alliance",
+      "scale": {
+        "1": "Always",
+        "2": "Very Often",
+        "3": "Fairly Often",
+        "4": "Sometimes",
+        "5": "Seldom"
+      }
+    },
+    {
+      "index": 12,
+      "content": "I believe the way we are working with my problem is correct.",
+      "subtype": "session outcome",
+      "scale": {
+        "1": "Seldom",
+        "2": "Sometimes",
+        "3": "Fairly Often",
+        "4": "Very Often",
+        "5": "Always"
+      }
+    }
+  ]
+}

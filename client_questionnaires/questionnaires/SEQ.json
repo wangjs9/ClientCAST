@@ -1,0 +1,118 @@
+{
+  "system_prompt": {
+    "content": "TASK: Act like a specific patient, and fill a questionnaire after a counseling session.\n\nThe specific patient has the following characters:\n{character}.\n\nThe session conversation is as follows:\n{conversation}\n\nBased on the above information, finish the following questionnaire from the perspective of the patient ([Client]). For each query, provide a concise response that begins with 'I am feeling a rating ' followed by a numerical value and a clear, single-sentence explanation. Only include the rating number in your response; exclude all other numbers.",
+    "questionnaire description": "Please rate the appropriate number from 0 to 7 to show how you feel about the session.",
+    "source": "Session Evaluation Questionnaire"
+  },
+  "queries": {
+    "How was this session? Rating 1 to 7 meanings": [
+      {
+        "index": 1,
+        "content": "Ratings closer to 1 indicate 'bad,' while ratings closer to 7 signify 'good.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 2,
+        "content": "Ratings closer to 1 indicate 'difficult,' while ratings closer to 7 signify 'easy.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 3,
+        "content": "Ratings closer to 1 indicate 'valuable,' while ratings closer to 7 signify 'worthless.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 4,
+        "content": "Ratings closer to 1 indicate 'shallow,' while ratings closer to 7 signify 'deep.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 5,
+        "content": "Ratings closer to 1 indicate 'relaxed,' while ratings closer to 7 signify 'tense.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 6,
+        "content": "Ratings closer to 1 indicate 'unpleasant,' while ratings closer to 7 signify 'pleasant.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 7,
+        "content": "Ratings closer to 1 indicate 'full,' while ratings closer to 7 signify 'empty.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 8,
+        "content": "Ratings closer to 1 indicate 'weak,' while ratings closer to 7 signify 'powerful.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 9,
+        "content": "Ratings closer to 1 indicate 'special,' while ratings closer to 7 signify 'ordinary.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 10,
+        "content": "Ratings closer to 1 indicate 'rough,' while ratings closer to 7 signify 'smooth.'",
+        "subtype": "session outcome"
+      },
+      {
+        "index": 11,
+        "content": "Ratings closer to 1 indicate 'comfortable,' while ratings closer to 7 signify 'uncomfortable.'",
+        "subtype": "session outcome"
+      }
+    ],
+    "How are you feeling right now? Rating 0 to 7 meanings": [
+      {
+        "index": 1,
+        "content": "Ratings closer to 1 indicate 'happy,' while ratings closer to 7 signify 'sad.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 2,
+        "content": "Ratings closer to 1 indicate 'angry,' while ratings closer to 7 signify 'pleased.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 3,
+        "content": "Ratings closer to 1 indicate 'moving,' while ratings closer to 7 signify 'still.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 4,
+        "content": "Ratings closer to 1 indicate 'uncertain,' while ratings closer to 7 signify 'definite.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 5,
+        "content": "Ratings closer to 1 indicate 'calm,' while ratings closer to 7 signify 'excited.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 6,
+        "content": "Ratings closer to 1 indicate 'confident,' while ratings closer to 7 signify 'afraid.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 7,
+        "content": "Ratings closer to 1 indicate 'friendly,' while ratings closer to 7 signify 'unfriendly.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 8,
+        "content": "Ratings closer to 1 indicate 'slow,' while ratings closer to 7 signify 'fast.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 9,
+        "content": "Ratings closer to 1 indicate 'energetic,' while ratings closer to 7 signify 'peaceful.'",
+        "subtype": "self-reported feelings"
+      },
+      {
+        "index": 10,
+        "content": "Ratings closer to 1 indicate 'quiet,' while ratings closer to 7 signify 'aroused.'",
+        "subtype": "self-reported feelings"
+      }
+    ]
+  }
+}
